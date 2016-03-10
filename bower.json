@@ -1,0 +1,21 @@
+{
+  "name": "react_express_app",
+  "description": "pluralsight tutorial for react, express, node app",
+  "main": "index.js",
+  "authors": [
+    "Adam Christiansen <adam.j.christiansen@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
